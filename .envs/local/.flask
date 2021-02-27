@@ -1,0 +1,4 @@
+FLASK_DEBUG=1
+PORT=5000
+APP_SETTINGS=app.config.local.Config
+SECRET_KEY=8ve0#j+8@gr0zxw$zq2ztc+p$ke(!pd#5f18*d%pxh_8(quylv
